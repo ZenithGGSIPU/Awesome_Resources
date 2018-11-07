@@ -13,7 +13,7 @@ Fork the repository by clicking on FORK button.
 Clone the repo on your computer using git bash.
 
 ```
-git clone
+git clone https://github.com/ZenithGGSIPU/Awesome_Resources.git
 ```
 ### Step 3 : 
 Create a new Branch (follow the command given below )
