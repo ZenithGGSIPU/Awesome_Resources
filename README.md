@@ -42,6 +42,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#121-matlab/octave)
      - [Go Language](#123-go-language)
+     - [Cyber Security](#124-cybersecurity)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -566,6 +567,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
 
+## 1.24 Cyber Security
+
+> [**Browse this link for detailed information on Cyber Security**](cybersecurity.md)
+
 ---
 
 
@@ -925,6 +930,10 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
 |46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology
 |47| [dotGo](https://www.dotgo.eu/) | Europe | No | March | Varies | Go |
+|48| [Bsides Delhi](https://bsidesdelhi.in/) | Delhi | No | Oct'19 | Oct'19 | Cyber Security
+|49| [DEFCON 91120](https://dc91120.org) | NCR | Free | Monthly meets | - | Cyber Security
+|49| [DEFCON 9111](https://twitter.com/dc_9111/) | Delhi | Free | Yearly | - | Cyber Security
+
 
 ---
 

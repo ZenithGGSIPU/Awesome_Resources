@@ -11,14 +11,15 @@
 5. [DataScience](#5-datascience)
 6. [Databases](#6-databases)
 7. [Testing](#7-testing)
-8. [Python Miscellaneous (Libraries andn other stuff)](#8-python-miscellaneous)
-9. [Projects](#9-projects)
+8. [Cyber Security](#8-cybersecurity)
+8. [Python Miscellaneous (Libraries andn other stuff)](#9-python-miscellaneous)
+9. [Projects](#10-projects)
 
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "https://automatetheboringstuff.com/"> Automate the Boring Stuff with Python</a>
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
-+ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
++ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer (highly recommended)</a> :baby:
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 
 ## 2. Socket Programming
@@ -30,6 +31,19 @@
 + <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
 + <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
 + <a href = "https://tutorial.djangogirls.org/"> Django Girls </a>
+
+### **Django**
++ <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
++ <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
++ <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
++ <a href = "https://www.django-rest-framework.org/tutorial/quickstart/"> Django REST framework quickstart guide</a>
++ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p">Django | Youtube - Corey Schafer</a>
+
+### **Flask**
++ <a href = "http://flask.pocoo.org/docs/1.0/">Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
++ <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
++ <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
++ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH">Flask | Youtube - Corey Schafer</a>
 
 ## 4. Desktop APP Development
 + <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
@@ -60,7 +74,14 @@
 + <a href = "https://www.guru99.com/selenium-python.html"> Python Selenium Tutorial</a>
 + <a href = "https://www.geeksforgeeks.org/selenium-python-tricks/"> Python Selenium Tricks</a>
 
-## 8. Python Miscellaneous
+## 8. Cyber Security
+
++ <a href="https://www.cybrary.it/course/python/">Python For Security Professionals</a>
++ Black Hat Python by Justin Seitz: <a href="https://www.amazon.in/Black-Hat-Python-Justin-Seitz/dp/1593275900">amazon</a> <a href="http://tinyurl.com/y5wxkvtk">pdf</a>
++ <a href="https://www.youtube.com/playlist?list=PL1H1sBF1VAKWfha866WUjDw0cwser3HAZ">Python CTF Challenges</a>
+
+## 9. Python Miscellaneous
+
 + <a href = "https://www.geeksforgeeks.org/youtube-mediaaudio-download-using-python-pafy/"> YouTube Media/Audio Download using Python | pafy</a>
 + <a href = "http://qr.ae/TbcLvy"> Python Faker Library | Generates Fake data </a>
 + <a href = "https://pypi.org/project/haversine/"> Harversine | Calculates distance between two points on Earth </a>
@@ -74,10 +95,10 @@
 + <a href = "https://interactivepython.org/runestone/static/pythonds/index.html"> Learn Algorithms and Data Structures using Python</a>
 + <a href = "https://ipython.org/"> Edit and recode a work session with iPython</a>
 + <a href = "https://www.hackster.io/dexterindustries/give-your-raspberry-pi-robot-a-worm-brain-bc5cc1"> Code a Raspberry Pi to function as the brain of a robot</a>
-+ <a href = "https://realpython.com/python-bitcoin-ifttt/"> Use Python to build a Bitcoin price notification service</a>
-+ <a href = "https://runcode.ninja"> Programming CTF platform supporting multiple languages</a>
++ <a href = "https://realpython.com/python-bitcoin-ifttt/">Use Python to build a Bitcoin price notification service</a>
++ <a href = "https://runcode.ninja">Programming CTF platform supporting multiple languages</a>
 
-## 9. **Projects**
+## 10. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
 + <a href ="https://github.com/manojmj92/subtitle-downloader">Subtitle Downloader</a>
 + <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
@@ -88,15 +109,6 @@
 + <a href ="https://github.com/getpelican/pelican">Pelican | Static site generator which provides support to Markdown and reST syntax.</a>
 + <a href ="https://github.com/rg3/youtube-dl">Youtube-dl | Small command-line program to download videos from YouTube.com and other video sites</a>
 
-## 8. **Django**
-+ <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
-+ <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
-+ <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
-+ <a href = "https://www.django-rest-framework.org/tutorial/quickstart/"> Django REST framework quickstart guide</a>
 
-## **Flask**
-+ <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
-+ <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
-+ <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
 
 
