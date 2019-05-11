@@ -6,7 +6,9 @@
 + [Intro to CTFs](https://www.youtube.com/watch?v=8ev9ZX9J45A)
 1. CTF Guide by trailofbits (highly recommended): [guide](https://trailofbits.github.io/ctf/) :baby:
 2. Youtube - John Hammond (highly recommended): [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY) :baby:
-3. CTF Cheatsheets: [1](https://www.gracefulsecurity.com/cheat-sheets/)  [2](http://pequalsnp-team.github.io/cheatsheet/)
+3. CTF Cheatsheets: 
+	+ https://www.gracefulsecurity.com/cheat-sheets/
+	+ http://pequalsnp-team.github.io/cheatsheet/
 4. CTF platforms (*hack to learn*): 
 	+ https://CTFtime.org 
 	+ http://overthewire.org/wargames/ 
@@ -33,4 +35,4 @@
 + https://xapax.gitbooks.io/security/content/
 + [JS hacks & creativity](https://aem1k.com/)
 
-*Side Note: Watch TV Show called Mr. Robot (Available on amazon prime). Thank [me](https://eshaan7.cf/) later !
+*Side Note: Watch TV Show called Mr. Robot (Available on amazon prime). Thank [me](https://eshaan7.cf/) later !*
