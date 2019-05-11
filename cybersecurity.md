@@ -6,14 +6,16 @@
 + [Intro to CTFs](https://www.youtube.com/watch?v=8ev9ZX9J45A)
 1. CTF Guide by trailofbits (highly recommended): [guide](https://trailofbits.github.io/ctf/) :baby:
 2. Youtube - John Hammond (highly recommended): [PicoCTF walkthroughs](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY) :baby:
-3. CTF Cheatsheets: 
+3. CTF Cheatsheets:
+	+ https://github.com/JohnHammond/ctf-katana 
 	+ https://www.gracefulsecurity.com/cheat-sheets/
 	+ http://pequalsnp-team.github.io/cheatsheet/
 4. CTF platforms (*hack to learn*): 
-	+ https://CTFtime.org 
+	+ https://CTFtime.org (*best place to find and compete in CTFs*)
 	+ http://overthewire.org/wargames/ 
 	+ https://www.vulnhub.com/ 
 	+ https://www.hackthebox.eu/
+	+ https://runcode.ninja/
 
 ## 2. Websites 
 
